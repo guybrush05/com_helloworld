@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part01/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part01/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part02/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part02/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part03/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part03/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part04/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part04/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part05/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part05/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part06/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part06/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part07/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part07/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part08/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part08/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part09/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part09/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part10/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part10/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part11/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part11/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part12/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part12/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part13/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part13/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part14/admin"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part14/site"/>
+	<buildpathentry kind="src" path="com_helloworld_2.5_part15"/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+</buildpath>
